@@ -17,7 +17,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho e est
     * **Experiência e Estudo Ativo:** Python (com base do curso básico Cisco), Java (com bastante uso e aprofundamento)
     * **Conhecimento e Exploração:** C#, PHP (desejo de aprofundar), HTML, CSS
     * **Experiência Anterior:** Delphi, VBA (do tempo mais jovem)
-* **Banco de Dados:** SQL (experiência com **SQLite** e **MySQL**, desejo de aprofundar em **PostgreSQL**)
+* **Banco de Dados:** SQL (experiência com **SQLite**, breve experiência com **MySQL**, e desejo de aprofundar em **PostgreSQL**)
 * **Sistemas Operacionais:** Linux (experiência com Ubuntu, Kali, Debian, Mint, Zorin), Windows
 * **Ferramentas:** Git, VS Code
 * **Conceitos:** Programação Orientada a Objetos, Estrutura de Dados, Algoritmos
@@ -31,7 +31,7 @@ Estou focado em aprofundar meus conhecimentos em:
 * **Python:** Para diversas aplicações e automação, com base sólida do curso Cisco.
 * **PHP:** Explorando as bases da linguagem e suas funcionalidades com a intenção de aprofundamento.
 * **C# e Java:** Aprimorando habilidades nessas linguagens versáteis, com foco em maior uso e estudo.
-* **Bancos de Dados:** Dominando **PostgreSQL** e **MySQL** para projetos robustos e didáticos.
+* **Bancos de Dados:** Dominando **PostgreSQL** e me aprofundando em **MySQL** para projetos robustos e didáticos.
 * **Arquitetura de Sistemas:** Entendendo padrões e melhores práticas para sistemas.
 
 ---
