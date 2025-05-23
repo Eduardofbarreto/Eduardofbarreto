@@ -46,10 +46,11 @@ Estou focado em aprofundar meus conhecimentos em:
 
 Vamos trocar ideias! Ficarei feliz em conectar.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-filippsen-barreto-944037101/)
 ---
 
 ### ✨ Fatos Interessantes
 
 * Amo resolver problemas complexos com código limpo e eficiente.
 * Acredito que a melhor forma de aprender é ensinando!
+* Sempre em busca de um bom mate e novos desafios de programação.
