@@ -1,6 +1,6 @@
 # Olá! 👋 Sou Eduardo
 
-Sou professor de Informática e TI com uma paixão por desmistificar o mundo da tecnologia! Atualmente, estou expandindo meus conhecimentos e habilidades como estudante de **Análise e Desenvolvimento de Sistemas**. Minha jornada é transformar desafios em soluções e, claro, aprender cada vez mais com cada código, entendendo a lógica por debaixo de tudo para compartilhar esse conhecimento. **Adoro o mundo Linux**, e já utilizei diversas distribuições como Ubuntu, Kali, Debian, Mint e Zorin.
+Sou professor de Informática e TI com uma paixão por desmistificar o mundo da tecnologia! Atualmente, estou expandindo meus conhecimentos e habilidades como estudante de **Análise e Desenvolvimento de Sistemas**. Minha jornada é transformar desafios em soluções e, claro, aprender cada vez mais com cada código, entendendo a lógica por debaixo de tudo para compartilhar esse conhecimento. **Adoro o mundo Linux**, e já utilizei diversas distribuições como Ubuntu, Kali, Debian, Mint, Zorin e Fedora e Ubuntu Bugdie. Porém minhas PREFERIDAS são Elementary OS e Ubuntu (as que uso no dia a dia).
 
 Meu foco hoje está 100% na parte didática e no aprendizado contínuo, utilizando meus códigos e projetos principalmente com o objetivo de aprofundar conceitos e aplicá-los no ensino.
 
